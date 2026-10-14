@@ -10,6 +10,14 @@ An AI-powered browser extension that helps users understand words quickly with d
 - ⌨️ **Keyboard Shortcuts** — Look up words quickly using keyboard shortcuts.
 - 🌐 **Browser Extension** — Access dictionary features directly from your browser.
 
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="./assets/image1.png" alt="AI Dictionary Extension — History Tab" width="45%" />
+  <img src="./assets/image.png" alt="AI Dictionary Extension — History Tab" width="45%" />
+</p>
+
 ## 🛠️ Technologies Used
 
 - HTML
