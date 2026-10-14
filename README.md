@@ -14,8 +14,8 @@ An AI-powered browser extension that helps users understand words quickly with d
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./assets/front.png" alt="AI Dictionary Extension — History Tab" width="45%" />
-  <img src="./assets/front2.png" alt="AI Dictionary Extension — History Tab" width="45%" />
+  <img src="./asesets/front.png" alt="AI Dictionary Extension — History Tab" width="45%" />
+  <img src="./asesets/front2.png" alt="AI Dictionary Extension — History Tab" width="45%" />
 </p>
 
 ## 🛠️ Technologies Used
